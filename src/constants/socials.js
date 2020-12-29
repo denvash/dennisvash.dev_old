@@ -3,7 +3,6 @@ const socials = {
   SO: 'StackOverflow',
   SANDBOX: 'CodeSandbox',
   TWITTER: 'Twitter',
-  GMAIL: 'Gmail',
   CV: 'CV',
 };
 
